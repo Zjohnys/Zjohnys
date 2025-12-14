@@ -1,10 +1,7 @@
 # 👩🏻‍💻 Zjohnys
 
-Sou John Lennon, sou Desenvolvedor Web, tecnólogo em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Paraíso, com experiência no desenvolvimento de aplicações web e atuação como monitor de laboratório de informática e robótica.
+Sou John Lennon, sou Desenvolvedor Web, tecnólogo em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Paraíso, com experiência no desenvolvimento de aplicações web.
 Tenho vivência em desenvolvimento web utilizando HTML, CSS, JavaScript, React, Node.js e PHP, aplicando conceitos de Programação Orientada a Objetos, design responsivo e boas práticas de código.
-Atuei também com suporte técnico e monitoria, auxiliando usuários e alunos na resolução de problemas, o que fortaleceu minha comunicação, raciocínio lógico e trabalho em equipe.
-Possuo formação técnica em Finanças, além de certificações em HTML, CSS e Back-End, o que contribui para uma visão analítica e atenção aos detalhes no desenvolvimento de soluções.
-🎯 Busco oportunidades para evoluir tecnicamente e colaborar em projetos de desenvolvimento web que gerem impacto real e soluções inovadoras..
 ---
 
 ### 🤖 Linguagens e Tecnologias

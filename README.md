@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Zjohnys
 
-**`Desenvolvedor Web`**
+*`Desenvolvedor Web`*
 Sou John Lennon, tenho 24 anos. Tecnólogo formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Paraíso - UniFAP, tenho interesse em ampliar meu domínio técnico e colaborar em projetos que promovam soluções inovadoras no desenvolvimento web.
 ---
 

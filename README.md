@@ -1,10 +1,5 @@
 # 👩🏻‍💻 Zjohnys
 
-## Índice
-- [Sobre](#-sobre)
-- [Linguagens e Tecnologias](#-linguagens-e-tecnologias)
-- [Estatísticas](#-estatísticas)
-
 ## 👋 Sobre
 
 Sou John Lennon, sou Desenvolvedor Web, tecnólogo em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Paraíso, com experiência no desenvolvimento de aplicações web.
@@ -91,5 +86,4 @@ Tenho vivência em desenvolvimento web utilizando HTML, CSS, JavaScript, React, 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zjohnys&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>

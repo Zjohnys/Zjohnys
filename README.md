@@ -2,7 +2,7 @@
 
 ## 👋 Sobre
 
-Sou John Lennon, sou desenvolvedor Full-Stack Júnior, formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Paraíso - UniFAP, com experiência em desenvolvimento de aplicações web.
+Sou John Lennon, sou Desenvolvedor de Software Full-Stack, formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Paraíso - UniFAP, com experiência em desenvolvimento de aplicações web.
 Tenho vivência em desenvolvimento web utilizando HTML, CSS, JavaScript, React, Node.js e PHP, aplicando conceitos de Programação Orientada a Objetos, design responsivo e boas práticas de código.
 Possuo formação técnica em Finanças, além de certificações em HTML, CSS e Back-End, o que contribui para uma visão analítica e atenção aos detalhes no desenvolvimento de soluções.
 
